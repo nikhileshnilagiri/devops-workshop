@@ -36,7 +36,7 @@ team_slogans = {
     "MI": "Duniya Hila Denge! 💙",
     "PBSK": "Sher Squad! 🦁",
     "RR": "Halla Bol! 💗",
-    "RCB": "Ee Sala Cup Namde? 😂",
+    "RCB": "Ee Sala Cup Namde? ",
     "SRH": "Orange Army! 🧡",
     "KKR": "Korbo Lorbo Jeetbo! 💜",
     "LSG": "Lucknow Ke Supergiants! 🔵"
