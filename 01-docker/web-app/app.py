@@ -92,7 +92,7 @@ async def main():
     # Title with animation
     st.markdown("""
     <div class="title-container">
-        <h1>RCBinator: IPL Playoff Predictor 🏏</h1>
+        <h1>RCBinator: Ee sala cup namde 🔥🏏</h1>
         <div class="cricket-ball"></div>
     </div>
     """, unsafe_allow_html=True)
