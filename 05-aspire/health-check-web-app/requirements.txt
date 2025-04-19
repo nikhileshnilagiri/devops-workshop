@@ -1,0 +1,6 @@
+-i https://pypi.org/simple
+numpy
+pandas
+requests
+streamlit
+dapr
